@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/questanalytics/Enterprise%20Architecture/_apis/build/status/UsefulAmit.pipelines-java?branchName=main)](https://dev.azure.com/questanalytics/Enterprise%20Architecture/_build/latest?definitionId=797&branchName=main)
 
 # Contributing
 
